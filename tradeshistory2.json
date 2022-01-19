@@ -1,0 +1,16 @@
+{
+    "TCCCTY-WE2O6-P3NB37": {
+        "ordertxid": "OQCLML-BW3P3-BUCMWZ",
+        "postxid": "TKH2SE-M7IF5-CFI7LT",
+        "pair": "XETHZUSD",
+        "time": 1616666586.6077,
+        "type": "buy",
+        "ordertype": "limit",
+        "price": "2088.96000",
+        "cost": "104.448",
+        "fee": "0.00000",
+        "vol": "0.05000000",
+        "margin": "0.00000",
+        "misc": ""
+    }
+}
